@@ -3,13 +3,19 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Createor/AbstractFactory/AbstractFactory.iml" filepath="$PROJECT_DIR$/Createor/AbstractFactory/AbstractFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structure/Bridge/Bridge.iml" filepath="$PROJECT_DIR$/Structure/Bridge/Bridge.iml" />
       <module fileurl="file://$PROJECT_DIR$/Createor/Builder/Builder.iml" filepath="$PROJECT_DIR$/Createor/Builder/Builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structure/Chain of Responsebility/Chain of Responsebility.iml" filepath="$PROJECT_DIR$/Structure/Chain of Responsebility/Chain of Responsebility.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structure/Composite/Composite.iml" filepath="$PROJECT_DIR$/Structure/Composite/Composite.iml" />
       <module fileurl="file://$PROJECT_DIR$/Createor/Createor.iml" filepath="$PROJECT_DIR$/Createor/Createor.iml" />
       <module fileurl="file://$PROJECT_DIR$/Creator/Creator.iml" filepath="$PROJECT_DIR$/Creator/Creator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structure/Decorater/Decorater.iml" filepath="$PROJECT_DIR$/Structure/Decorater/Decorater.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/DesignPatternsInJava.iml" filepath="$PROJECT_DIR$/.idea/DesignPatternsInJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/Createor/FactoryMethod/FactoryMethod.iml" filepath="$PROJECT_DIR$/Createor/FactoryMethod/FactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/Createor/Prototype/Prototype.iml" filepath="$PROJECT_DIR$/Createor/Prototype/Prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structure/Proxy/Proxy.iml" filepath="$PROJECT_DIR$/Structure/Proxy/Proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Createor/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/Createor/Singleton/Singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structure/Structure.iml" filepath="$PROJECT_DIR$/Structure/Structure.iml" />
     </modules>
   </component>
 </project>
