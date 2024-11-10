@@ -9,5 +9,8 @@ public class Main {
         Render javaFXRender = new JavaFXRender();
         Button buttonJavaFX = new ConcreteButton(javaFXRender);
         buttonJavaFX.paint();
+
+        //bridge设计模式在与将事物的抽象与实现抽离
+        //本体发生变化时，才会使用bridge设计模式
     }
 }

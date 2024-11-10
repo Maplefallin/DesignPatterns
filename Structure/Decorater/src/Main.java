@@ -7,3 +7,5 @@ public class Main {
         movieWithSubtitles.play();
     }
 }
+
+//decorator的本体不发生变化，装饰器和本体都实现同一个接口。

@@ -1,0 +1,16 @@
+// 具体命令：关闭设备
+public class TurnOffCommand implements Command {
+    private Device device;
+    public TurnOffCommand(Device device) {
+        this.device = device;
+    }
+    @Override
+    public void execute() {
+        device.turnOff();
+    }
+    @Override
+    public void undo() {
+        device.turnOn();
+    }
+}
+
