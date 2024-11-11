@@ -19,6 +19,7 @@
       <module fileurl="file://$PROJECT_DIR$/Structure/Proxy/Proxy.iml" filepath="$PROJECT_DIR$/Structure/Proxy/Proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Createor/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/Createor/Singleton/Singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/Structure/Structure.iml" filepath="$PROJECT_DIR$/Structure/Structure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Behavior/Template Method/Template Method.iml" filepath="$PROJECT_DIR$/Behavior/Template Method/Template Method.iml" />
     </modules>
   </component>
 </project>
