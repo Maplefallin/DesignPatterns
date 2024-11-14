@@ -20,6 +20,7 @@
       <module fileurl="file://$PROJECT_DIR$/Createor/Prototype/Prototype.iml" filepath="$PROJECT_DIR$/Createor/Prototype/Prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/Structure/Proxy/Proxy.iml" filepath="$PROJECT_DIR$/Structure/Proxy/Proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Createor/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/Createor/Singleton/Singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Behavior/Strategy/Strategy.iml" filepath="$PROJECT_DIR$/Behavior/Strategy/Strategy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Structure/Structure.iml" filepath="$PROJECT_DIR$/Structure/Structure.iml" />
       <module fileurl="file://$PROJECT_DIR$/Behavior/Template Method/Template Method.iml" filepath="$PROJECT_DIR$/Behavior/Template Method/Template Method.iml" />
     </modules>
